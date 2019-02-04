@@ -30,7 +30,7 @@ public class ModItems {
 		registerRender(drake);
 	}
 	
-	private static void registerRender(Item item) {
-		ModelLoader.setCustomModelResourceLocation(item, 0, new ModelResourceLocation( item.getRegistryName(), "inventory"));
+	private static void registerRender(Item items) {
+		ModelLoader.setCustomModelResourceLocation(items, 0, new ModelResourceLocation( items.getRegistryName(), "inventory"));
 	}
 }
