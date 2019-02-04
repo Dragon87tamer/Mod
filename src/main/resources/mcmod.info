@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dma",
+  "name": "Dragons Mod",
+  "description": "This mod is about the taming of dragons, and the influences they have on your world",
+  "version": "Beta",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Chris Harris"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
