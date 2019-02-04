@@ -1,7 +1,7 @@
-package Init;
+package DragonsMod.Init;
 
 import DragonsMod.references;
-import Items.ItemsBasic;
+import DragonsMod.Items.ItemsBasic;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
@@ -17,7 +17,7 @@ public class ModItems {
 	static Item drake;
 	
 	public static void init() {
-		drake = new ItemsBasic("drake");
+		drake = new DragonsMod.Items.ItemsBasic("drake");
 	}
 	
 	@SubscribeEvent

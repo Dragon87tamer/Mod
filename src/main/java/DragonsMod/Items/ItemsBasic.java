@@ -1,4 +1,4 @@
-package Items;
+package DragonsMod.Items;
 
 import net.minecraft.item.Item;
 

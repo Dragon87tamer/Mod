@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "drakeland:drake"
+        "layer0": "drakeland:items/drake"
      },
      
     "display": {
