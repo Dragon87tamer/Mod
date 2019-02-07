@@ -1,2 +1,5 @@
 item.drake.name=Drake Ingot
 tile.drakeblock.name=Drake Block
+itemGroup.drakeland=Drake land
+item.drake_essence.name=Drake essence
+tile.drakeOre.name=Drake Ore
