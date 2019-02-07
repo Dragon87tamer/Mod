@@ -2,6 +2,7 @@ package DragonsMod;
 
 import DragonsMod.Init.ModItems;
 import DragonsMod.Init.ModBlocks;
+import DragonsMod.Init.ModRecipes;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -26,6 +27,7 @@ public class Main {
 	@EventHandler
 	public void init(FMLInitializationEvent event) {
 		System.out.println(references.MODID + ":init");
+		ModRecipes.init();
 	}
 	
 	@EventHandler

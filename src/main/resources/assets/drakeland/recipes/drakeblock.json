@@ -1,0 +1,19 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "///",
+    "///",
+    "///"  ],
+  "key": {
+    "/": [
+      {
+        "item": "drakeland:drake",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "drakeland:drakeblock",
+    "data": 0
+  }
+}
